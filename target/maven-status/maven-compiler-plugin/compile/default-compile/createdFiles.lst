@@ -1,0 +1,7 @@
+com\ordercombiner\client\LazySingleton.class
+com\ordercombiner\model\DirectionResponse.class
+com\ordercombiner\model\Distance.class
+com\ordercombiner\model\DistanceElements.class
+com\ordercombiner\model\Duration.class
+com\ordercombiner\model\DistanceInfo.class
+com\ordercombiner\client\DistanceMatrixClient.class

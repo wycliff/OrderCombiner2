@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.apartmentnotification.model;
+package com.ordercombiner.model;
 
 /**
  *
- * @author SAMIR-PC
+ * @author Wycliffe
  */
 public class DistanceElements {
 
